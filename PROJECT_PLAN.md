@@ -8,17 +8,17 @@ PROJECT IDEA - to create an app with login auth funtionality to CREATE an meetin
 		
 						* LOGIN SYSTEM TO CREATE - to create new users
 						    	
-									when autherized :
+						when autherized :
 									
-																	* user can create send friend request to other users
-																	* user can create meeting and invite other users.
-																						1)those who are friends can only be invited to a meeting
-																						2)there are two type of meeting virtual and non virtual meet ups
+							* user can create send friend request to other users
+										* user can create meeting and invite other users.
+											1)those who are friends can only be invited to a meeting
+											2)there are two type of meeting virtual and non virtual meet ups
 																							
-																									meet up those are virtual:
-																													will contain info on how that is conducted...
-																									non virtual:
-																															contains the details on how that is conducted...
+												meet up those are virtual:
+														will contain info on how that is conducted...
+															non virtual:
+														contains the details on how that is conducted...
 	
 	
 	APPS required :
